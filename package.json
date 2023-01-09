@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "atob": "^2.1.2",
-    "probot": "^9.0.1"
+    "probot": "^12.2.8"
   },
   "devDependencies": {
     "@types/jest": "^24.0.0",
